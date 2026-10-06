@@ -8,11 +8,8 @@ I design and build modern websites and digital experiences.
 
 <br>
 
-<a href="https://github.com/farzad-ebrahimi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
 <a href="https://teconize.ir">
-  <img src="https://img.shields.io/badge/Teconize-0d0d0d?style=flat-square&logoColor=white" />
+  <img src="./teconize-logo.png" width="120" alt="Teconize">
 </a>
 
 </div>
@@ -32,7 +29,7 @@ I build websites for businesses, brands and selected projects through **Teconize
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs" />
 </p>
 
 ### Frameworks & Tools
@@ -40,16 +37,6 @@ I build websites for businesses, brands and selected projects through **Teconize
 <p>
   <img src="https://skillicons.dev/icons?i=django,flask,git,github,vscode" />
 </p>
-
----
-
-## Teconize
-
-**Teconize** is my technology brand focused on website design and development.
-
-→ [teconize.ir](https://teconize.ir)
-
----
 
 <div align="center">
 
