@@ -9,7 +9,9 @@ I design and build modern websites and digital experiences.
 <br>
 
 <a href="https://teconize.ir">
-  <img src="./teconize-logo.png" width="120" alt="Teconize">
+  <img src="./teconize-logo.png" width="100" alt="Teconize Logo">
+  <br>
+  <strong style="font-family: Oswald, Arial, sans-serif; font-size: 22px;">Teconize</strong>
 </a>
 
 </div>
